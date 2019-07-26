@@ -1,2 +1,3 @@
 # Hello-World
 This is my first time working on GitHub, Hello World of programmers.
+I was a student of Professor Bob Clarke a lecturer at Birmingham City University UK, who taught me Programming Languages and coding with Java and C#. It as a great achievement and I learned a lot from his vast experiences, it was an awesome experience working with him. Subsequently, I came to learn a bit about Programming with C, where Professor Sahalu Junaid a lecturer at Ahmadu Bello University, Zaria taught me for good two years. I also learned a lot from his excellent couching and humble mentoring. I am now ready to partake in the world of programming, that is why I joined GitHub.
